@@ -1,4 +1,4 @@
-![blueberrybanana-icon](blueberry-banana-icon.svg)
+![blueberrybanana-icon](blueberry-banana-vscode-icon.png)
 
 ![blueberrybanana-screenshot](blueberry-banana-screenshot.png)
 

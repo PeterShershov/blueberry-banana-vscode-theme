@@ -1,38 +1,42 @@
 {
-	"name": "blueberry-banana",
-	"displayName": "Blueberry Banana",
-	"description": "Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling",
-	"version": "0.0.1",
-	"publisher": "petershershov",
-	"scripts": {
-		"publish": "vsce publish"
-	},
-	"engines": {
-		"vscode": "^1.37.0"
-	},
-	"keywords": [
-		"Theme",
-		"Dark Theme",
-		"Blueberry Banana",
-		"Night Theme",
-		"Purple Theme",
-		"Cyberpunk Theme"
-	],
-	"icon": "blueberry-banana-vscode-icon.png",
-	"galleryBanner": {
-		"color": "#151920",
-		"theme": "dark"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Blueberry Banana",
-				"uiTheme": "vs-dark",
-				"path": "./themes/blueberry-banana-color-theme.json"
-			}
-		]
-	}
+  "name": "blueberry-banana",
+  "displayName": "Blueberry Banana",
+  "description": "Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling",
+  "version": "0.0.1",
+  "publisher": "petershershov",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PeterShershov/blueberry-banana-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Blueberry Banana",
+    "Night Theme",
+    "Purple Theme",
+    "Cyberpunk Theme"
+  ],
+  "icon": "blueberry-banana-vscode-icon.png",
+  "galleryBanner": {
+    "color": "#151920",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blueberry Banana",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blueberry-banana-color-theme.json"
+      }
+    ]
+  }
 }
