@@ -1,4 +1,4 @@
-![blueberrybanana-icon](blueberry-banana-icon.svg)
+<p align="center"><img src="blueberry-banana-icon.svg" width="200" /></p>
 
 ![blueberrybanana-screenshot](blueberry-banana-screenshot.png)
 
