@@ -1,5 +1,8 @@
 ![blueberrybanana-icon](blueberry-banana-vscode-icon.png)
 
+![marketplace version](https://vsmarketplacebadge.apphb.com/version/pshershov.blueberry-banana.svg)
+![marketplace downloads](https://vsmarketplacebadge.apphb.com/downloads/pshershov.blueberry-banana.svg) 
+
 ![blueberrybanana-screenshot](blueberry-banana-screenshot.png)
 
 Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling
