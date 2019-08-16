@@ -26,7 +26,7 @@
 		"editor.findMatchHighlightBackground": "#314365",
 		"editor.foreground": "#cdcdcd",
 		"editor.lineHighlightBackground": "#ae66b618",
-		"editor.selectionBackground": "#5b29636c",
+		"editor.selectionBackground": "#308db86c",
 		"editorCursor.foreground": "#f8f8f0",
 		"editorError.foreground": "#c24038",
 		"editorGroup.background": "#181a1f",
@@ -289,13 +289,6 @@
 			}
 		},
 		{
-			"name": "String",
-			"scope": "string",
-			"settings": {
-				"foreground": "#e5c07b"
-			}
-		},
-		{
 			"name": "js template-expression",
 			"scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
 			"settings": {
@@ -314,13 +307,6 @@
 			"scope": "meta.template.expression.js",
 			"settings": {
 				"foreground": "#abb2bf"
-			}
-		},
-		{
-			"name": "Number",
-			"scope": "constant.numeric",
-			"settings": {
-				"foreground": "#c678dd"
 			}
 		},
 		{
@@ -693,7 +679,7 @@
 			"name": "Markup: Emphasis Punctuation",
 			"scope": "punctuation.definition.italic.markdown",
 			"settings": {
-				"fontStyle": "none",
+        "fontStyle": "none",
 				"foreground": "#696969"
 			}
 		},
@@ -715,7 +701,7 @@
 			"name": "Markdown: Bold Punctuation",
 			"scope": "punctuation.definition.bold.markdown",
 			"settings": {
-				"fontStyle": "none",
+        "fontStyle": "none",
 				"foreground": "#696969"
 			}
 		},
@@ -731,7 +717,7 @@
 			"name": "Markdown: Heading",
 			"scope": "punctuation.definition.heading.markdown",
 			"settings": {
-				"fontStyle": "none",
+        "fontStyle": "none",
 				"foreground": "#696969"
 			}
 		},
@@ -774,7 +760,7 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#c06708"
+				"foreground": "#e07d13"
 			}
 		},
 		{
@@ -800,13 +786,6 @@
 			"settings": {
 				"foreground": "#E6C62F"
 			}
-		},
-		{
-			"scope": "constant.numeric",
-			"settings": {
-				"foreground": "#dc760a"
-			}
-		},
 		{
 			"scope": "entity.name.type",
 			"settings": {
