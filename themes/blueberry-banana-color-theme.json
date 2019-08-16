@@ -786,6 +786,7 @@
 			"settings": {
 				"foreground": "#E6C62F"
 			}
+    },
 		{
 			"scope": "entity.name.type",
 			"settings": {
