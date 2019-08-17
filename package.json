@@ -12,7 +12,7 @@
     "url": "https://github.com/PeterShershov/blueberry-banana-vscode-theme"
   },
   "engines": {
-    "vscode": "^1.37.0"
+    "vscode": "^1.33.0"
   },
   "keywords": [
     "Theme",
