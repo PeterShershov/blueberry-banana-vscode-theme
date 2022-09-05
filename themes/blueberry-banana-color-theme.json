@@ -899,6 +899,18 @@
       "settings": {
         "foreground": "#E07D13"
       }
+    },
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#7F6E99"
+      }
+    },
+    {
+      "scope": "punctuation.definition.comment",
+      "settings": {
+        "foreground": "#7F6E99"
+      }
     }
   ]
 }
