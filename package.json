@@ -2,7 +2,7 @@
   "name": "blueberry-banana",
   "displayName": "Blueberry Banana",
   "description": "Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "pshershov",
   "scripts": {
     "publish": "vsce publish"

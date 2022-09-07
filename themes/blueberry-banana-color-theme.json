@@ -82,6 +82,7 @@
     "statusBar.noFolderBackground": "#e6c62f",
     "statusBarItem.hoverBackground": "#b39b239a",
     "tab.activeBackground": "#220525",
+    "tab.activeBorder": "#ae66b6",
     "tab.border": "#17141f",
     "tab.hoverBackground": "#220525",
     "tab.inactiveBackground": "#17141f",
